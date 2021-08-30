@@ -1,0 +1,212 @@
+Evaluator: Wisha Khurshid
+
+Age: 21
+
+Sex: female
+
+Web Browser and Version: Google Chrome Version 88.0.4324.104 
+
+Operating System and Version: Windows 10 Pro
+
+Internet Connection Type: Zong 4g
+
+Internet Connection Download Speed: 1 Mbps
+
+Monitor Size: 14 inches 
+
+Monitor Colours: 64-Bit
+
+Monitor Resolution: 1,600 x 900
+
+Browser Resolution: 1280 x 720
+
+Date of Evaluation: 31 Jan 2021
+
+Time of Evaluation: 2:00PM - 4:00PM
+
+
+
+
+Positive Impressions
+
+--------------------
+
+
+o Search bar
+   
+It was very good to see the search bar on the top of the homepage. As this website covers different educational aspects so a user can easily search required information through the search bar.
+  
+Screenshot: wisha_pos1.png
+
+
+o Language Options
+   
+As most people are not good at English, so this website also allows users to use it in Urdu. 
+    
+Screenshot: wisha_pos2.png
+
+
+o Header buttons and subsection:
+   
+All the required details were present in the header section and all subsections are properly listed.
+   
+Screenshot: wisha_pos3.png
+
+
+o News and Media:
+    
+There is a separate option for news and media in the header. It would be easy for the user to go through the latest updates.
+    
+Screenshot: wisha_pos4.png
+
+
+o Separate Categories:
+   
+There are separate categories for students, faculty members, and university. This option makes it user friendly. A particular user can get help through the site easily.
+   
+Screenshot: wisha_pos5.png
+
+
+
+Problems
+
+-------------------
+
+
+o Homepage Banners Design
+
+Description
+   
+The banners on the homepage have a lot of text on them. There must be some graphics that could make it user-friendly. 
+
+Heuristic: Aesthetic and Minimalist Design
+
+Location - How reproducible?: Homepage ---> Banner
+
+Screenshot: wisha_prob1.png
+
+
+
+o Homepage Banners Permalinks
+
+Description
+   
+The icons on banners must be clickable and allow a user to redirect to that particular website. But these are not working in this way. When we click on any icon on a banner, it redirects to the hec website itself.
+
+Heuristic: Consistency
+
+Location - How reproducible?:Homepage ---> Banner ---> Icons
+
+Screenshot: wisha_prob2
+
+
+
+o Homepage Banners Content
+
+Description
+   The banners must have the latest scholarship ads but these are also not up-to-date. 
+
+Heuristic: Help and Documentation
+
+Location - How reproducible?: Homepage ---> Banner
+
+Screenshot: wisha_prob3
+
+
+
+
+o Upcoming Events
+
+Description
+   
+There must be a slider in the upcoming events portion rather than the 'see all' button. It could allow the user to do just one click and move to another event. In the case of the 'see all' button, it takes a lot of load time to move to another page.
+
+Heuristic: Aesthetic and Minimalist Design
+
+Location - How reproducible? Homepage ---> Upcoming Events ---> see all button
+
+Screenshot: wisha_prob4
+
+
+
+o Blog
+
+Description
+  It should be removed from the homepage because they don't have any content for the blog. They are showing coming soon in the blog and it looks strange. 
+
+Heuristic: Feedback
+
+Location - How reproducible? Homepage ---> Blog
+Screenshot: wisha_prob5
+
+
+
+o Contact Us Location
+
+Description
+  
+Contact Us option must be in the header menu of the website but on this website, this page's link is in the footer. 
+
+Heuristic: Flexibility and Efficiency of Use
+
+Location - How reproducible? Homepage ---> Footer ---> Contact Us
+
+Screenshot: wisha_prob6
+
+
+
+o Contact Us Page UI
+Description
+
+There must be a contact form along with contact information. And the contact us page must have only contact information like contact number, email, social media pages links, etc. But on the contact page of this website, there is a lot more information. So, the user can get confused about it. 
+
+Heuristic: Aesthetic and Minimalist Design
+
+Location - How reproducible? Contact Us
+
+Screenshot: wisha_prob7
+
+
+
+o Join Hec
+
+Description
+  This page is not loading. There is some error on this page and it does not show any message.
+
+Heuristic: Good Error Messages
+
+Location - How reproducible? Homepage ---> About ---> Join HEC
+
+Screenshot: wisha_prob8
+
+
+
+o Commission members images
+
+Description
+  
+There is a picture of only one commission member. They should either add images of all members or remove the image option for all members. The dummy image in place of member's images is not looking good.
+
+Heuristic: Feedback
+
+Location - How reproducible? Homepage ---> About ---> Commission Members
+
+Screenshot: wisha_prob9
+
+
+
+o Publications
+
+Description
+  
+The publications are not updated after September 2020. They must be up to date.
+  
+Heuristic: Help and Documentation
+
+Location - How reproducible? Homepage ---> News and Media ---> Publications
+
+Screenshot: wisha_prob10
+
+
+
+

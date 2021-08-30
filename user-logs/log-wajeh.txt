@@ -1,0 +1,88 @@
+Evaluator: Syed wajeh ul hasnain
+Age: 21
+Sex: male
+Web Browser and Version: Google chrome
+Operating System and Version: Windows 10
+Internet Connection Type: Cello, Jazz 4g
+Internet Connection Download Speed: 8 mbps
+Monitor Size: 16,3"
+Monitor Colours: 64-Bit
+Monitor Resolution: 1280 x 800
+Browser Resolution: 1280 x 800
+Date of Evaluation: 30 Jan 202
+Time of Evaluation: 19:00 - 22:00
+
+
+Positive Impressions
+--------------------
+
+o Loading Time
+
+  The Loading Time of website is not a problem. All Pages are loaded in a reasonable amount of time.
+  Screen shot: Wajehp1.jpg
+o Covid 19 sop details
+   Its good to see covid 19 sop details on main page as a slider.
+    Screen shot: Wajehp2.jpg
+
+o Language options
+   Its very good to see langauge option on website as it will be helpfull for many users whose native language is urdu and are unable
+   to speak english well
+   Screen shot: Wajehp3.jpg
+
+oAnnouncement section
+   The announcement section on main screen is very useful as itwill help general users to see all the details from the first page.
+   Screen shot: Wajehp4.jpg
+
+----------------------------------------
+Problems
+----------------------------------------
+
+ o General Behaviour
+Description:
+It is  too hard to find the stuff you are looking for on the site. The website somehow looks messy and complicated for a general user.
+Heuristic:
+ The interface must be user freindly
+
+Location:
+ Main page (Home page)
+ screenshot: Wajehn1.jpg
+	
+Small heading on header
+
+  The header have a name written of the site but its not looking proper and upto the mark. 
+  The font and font size is not visually appealing 
+
+    Heuristic: Text must be written in some bold font.
+    Screenshot: Wajehn2.jpg
+    Location: Header of main page
+
+
+o Obsolete information on main page
+
+  on the main page there is heading name blog but there is no content for blog in the site and its not being updted for many 
+  days.
+   Location: Bottom of main page 
+   Heuristic: Feedback
+   Screenshot: wajehn3.jpg
+
+
+o Join Hec page not loading
+
+  The join hec page is unable to load properly and the apge have no content to display
+   Location: Home page-> About -> Join Hec
+   Heuristic: Error meassage m ust be visible
+   Screenshot: wajehn4.jpg
+
+
+o Publications not updating continuesly
+
+  There publication section hjas not been updated since september 2020
+
+  Location: Home page -> News and media -> Publications
+  Heuristic: Help and documentation
+  Screenshot: wajehn5.jpg
+
+
+
+  
+

@@ -1,0 +1,217 @@
+Evaluator: Ali Raza Khan 
+
+Age: 18 Years 
+
+Sex: Male 
+
+Web Browser and Version: Firefox 79.0 
+
+Operating System and Version: Ubuntu 20.04 
+
+Internet Connection Type: 4G (Zong CMPak) 
+
+Internet Connection Download Speed: 7 Mbps 
+
+Monitor Size: 17" 
+
+Monitor Colours: RGB 
+
+Monitor Resolution: 1366x768 
+
+Browser Resolution: 1349x768 
+
+Date of Evaluation: Jan 31, 2021 
+
+Time of Evaluation: 12:39 
+
+
+
+
+
+
+Positive Impressions 
+
+-------------------- 
+
+  
+
+o 
+
+Short Title: Resize Font 
+
+  
+
+  Description: 
+
+	Use can resize font on web. Font size is divided into 3 different defined sizes. Three buttons are provided to resize font at the top right corner of the webpage. Three A’s are placed as buttons representing size of text on the webpage. 
+
+  
+
+  Screenshot:  uuu-fontSize.png 
+
+
+o 
+
+Short Title: Availability in two different languages 
+  Description: 
+
+	Webpages are made available in two different languages, Urdu and English. User with different language preferences can switch between Urdu and English. User who is comfortable with Urdu language can easily switch to Urdu  language and same goes for those users which are comfortable with English. 
+
+  Screenshot:  uuu-language.png 
+
+
+o 
+
+Short Title: Important Annoucements are shown in slider  
+
+  Description: 
+
+	Important announcements which have to be displayed to the user are displayed on the slider on homepage of the website. Announcements related to scholarships policies are displayed here in slider. It contains more than one announcement posters. Mostly it(slider) displays HEC’ policies regarding higher education and higher education institutes. 
+
+
+  Screenshot:  uuu-announcements.png 
+
+
+o 
+
+Short Title: Search for anything on the Website 
+
+  Description: 
+
+	User can search for anything he wants to search for. For instance, user can search for any kind of scholarships. We have done an example of search as you can see in the screenshot. Users can search for a keyword and results will be displayed to the user even if he enters a wrong keyword than also search engine of the page will show results close the searched keyword. 
+
+  Screenshot:  uuu-search.png 
+
+O 
+
+
+Problems 
+
+-------- 
+
+  
+
+o Short Title: Login/Sign in option 
+
+  Description: 
+
+Login or sign in button is usually placed at top the webpages, as it is considered as a standard place to fit login button/option. But in this website login button is at the bottom right corner, which is confusing for user, as almost all the websites place the login button at the top right corner.      
+
+  Heuristic:  Speak the Users’ Language 
+
+  Location - How reproducible?:  Drag to the bottom of homepage-Bottom right corner 
+
+  
+  Screenshot:  uuu-loginButton.png 
+
+o  
+
+
+o Short Title: About Us tab in navigation bar 
+
+  
+
+  Description: 
+
+About us nav in navigation bar contains different section like HEC offices and HEC ordinance can be put in the same webpage and displayed as a single webpage in navigation bar. User than just have to go to about us webpage and read ‘About Us’ on a single click.  
+
+  Heuristic:  Aesthetic and Minimalist Design 
+
+  Location - How reproducible?:  Hover over About Us in navigation bar 
+
+  Screenshot:  uuu-aboutUs.png 
+
+O 
+
+o Short Title: Duplicate Information 
+
+  
+
+  Description: 
+
+Different tabs and information is placed twice. For instance, Services for students are available twice, once in the HEC tab in navigation bar and than again on the homepage. This leads to redundant and duplicate information. 
+
+  Heuristic:  Aesthetic and Minimalist Design 
+
+  Location - How reproducible?  Hover over HEC Services in navigation bar and drag the homepage a little below 
+
+  Screenshot:  uuu-duplicateINFO.png 
+
+O 
+
+o Short Title: Same Navigation Bar and Body 
+
+  Description: 
+
+	Navigation bar and a section in the body of the main page contains same webpages redirection. Same data and information are made redundant and duplicate more than once with no little change. The only difference between the duplicates is that one is in the form of navigation bar and the other is placed as bullets in a section of body of main/homepage. 
+
+  Heuristic:  Aesthetic and Minimalist Design 
+
+  Location - How reproducible?  Hover over any tab in navigation bar and drag the homepage-next to HEC blog 
+
+  Screenshot:  uuu-sameRef.png 
+
+O 
+ 
+
+o Short Title: About Us tab is made available as PDF file 
+
+ Description: 
+
+	If users want to read about us of HEC, he is asked to select among few options and then it is displayed as a PDF document. But mostly about us page is in the form HTML page or say webpage.  
+
+ Heuristic:  Speak the Users’ Language 
+
+  Location - How reproducible?  Hover over About Us in navbar-click on any option from the dropdown 
+
+  Screenshot:  uuu-aboutUsPDF.png 
+
+O 
+
+o Short Title: No proper Sign Page of popup 
+
+ Description: 
+
+	There is no specified or proper webpage for login. A popup which uses browser popups is used to take login inputs. Mostly almost all the websites contain a proper signin/login webpage to login for user. 
+
+ Heuristic:  Speak the Users’ Language/ Aesthetic and Minimalist Design 
+
+  Location - How reproducible?  Drag the homepage below-Bottom right corner-click on login button 
+
+  Screenshot:  uuu-aboutUsPDF.png 
+
+O 
+
+ 
+
+o Short Title: Empty Image Placeholders 
+
+  
+
+ Description: 
+
+	Some image placeholders are left empty. Some of the webpages containing some images to be displayed are left empty which is less informative for the user. If those pictures were available it would be more informative.	 
+
+ Heuristic:  Consistency   
+
+  Location - How reproducible?  Universities- Universities Statistics 
+
+  Screenshot:  uuu-aboutUsPDF.png 
+
+O 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 

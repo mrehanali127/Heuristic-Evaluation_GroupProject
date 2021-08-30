@@ -1,0 +1,134 @@
+Evaluator: Saif Ullah Khan
+Age: 20
+Sex: male
+Web Browser and Version: Google Chrome ---- Version 87.0.4280.141 (Official Build) (64-bit)
+Operating System and Version: Windows 10 Pro 64-bit (10.0, Build 19041) (19041.vb_release.191206-1406)
+Internet Connection Type: Telenor 3G
+Internet Connection Download Speed: 500-800 Kbps 
+Monitor Size: 16.5"
+Monitor Colours: RGB color scheme
+Monitor Resolution: 1366x900
+Browser Resolution: 1280x860
+Date of Evaluation: 31-1-2021
+Time of Evaluation: 11:20 AM
+
+
+
+Positive Impressions
+--------------------
+
+Title : Accesscibility of content
+
+Description
+	The navigation bar contains the link of all pages, so from the navbar you can access all the content avilible on the website. 
+	This is very helpful for new users because they didn't have complete knowledge about the website and if we donot show what our
+	website contains, he will not be able to explore it in better way. So the navbar provide easiness for novice users.  
+  	
+	Screenshot : sk_navbar.png
+
+
+
+
+
+Title : Separation of content
+
+Description 
+	The content of website is divided into 3 categories (Students, Teachers, Representitive). This is helpful for novice users as well
+	as for expert users, because a student will not mess up with the content related to teachers and vice versa. This categoration reduce
+	the time for searching a specific content related to one category. 
+
+	Screenshot : sk_category.png
+
+
+
+
+
+Title : Language duality support
+
+Description
+	The website supports language duality, user can switch website language between urdu and english. This is helpfull in a scenario like, an
+	urdu mediuem student looking for some information, so changing the language to urdu will be helpfull for him/her. Also if some people
+	which are not familiar with english can use it. 
+	
+	Screenshot : sk_language
+
+
+	
+	
+
+Title : Color scheme
+
+Description
+	The color of this wensite is simple which make it very attractive. Normally users prefer simple colors scheme in websites related to
+	studies because they are concerned with the content not with the colors that much.
+
+	Screenshot : sk_color
+
+
+
+
+Title : Free from annoying adds
+
+Description
+	This website is free from annoying and unnessesary adds which tend the user to spend more time on website as compared to the website
+	which contains adds. In common practise, a user after facing unnecessary adds 3 to 4 time leave the website and search it required
+	information on some other websites or use some other sources.
+
+
+
+
+
+
+
+
+Problems
+------------------------------
+
+Title : Sign in option
+
+  Description
+	The sign in option is located at the bottom right corner and is nearly hidden, because in common practise this button/option is avilible 
+	at the top right place ( inside the navbar ) so when a user visit the website, he can see it easily. But in HEC website this button is
+	at the end, this is very difficult for novice users to find it.
+
+  Heuristic:  Recognition Rather Than Recall
+
+  Location - Home-->sign in
+
+  Screenshot:  sk_sign-in
+
+
+
+
+Title : Aimbiguity in error messages
+   Description
+	During the sign in operation, when the user enters incorrect username or password, it doesn't show any error, instead it just reload the TAB
+	and again demands for username and password. This will create problem for users during loggining in and he/she will not be able to know if
+	the username is wrong or the pasword is wrong. 
+
+  Heuristic:  Good error message
+
+  Location - Home--->sign in--->Enter
+  Screenshot:  sk_signError
+
+
+
+Title : Retundancy in tabs/links
+   Description
+	The tabs/links in navigation bar are exaactly repeated in the footer section. 	
+  Location - Home page
+  Heuristic:  Aesthetic and Minimalist Design
+
+
+Title : Bad design
+    Description
+	In the sholarship page, the useful link must be about some scholarships but these are links to the main page.
+  Location : Home --> Scholarships
+  Heuristic : Aesthetic and Minimalist Design
+  Screenshot : sk_links
+
+
+o 
+
+
+

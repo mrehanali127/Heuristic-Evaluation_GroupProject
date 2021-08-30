@@ -10,4 +10,5 @@ During this evaluation, we use “Andrews General Usability Heuristics”. The f
 by each team member independently by performing the tests several times and after this; we 
 rate each issue in range of 1-5 depending upon their severity.
 ## Findings
-In this usability test, we identified more than 65 issues. They are described in details in attached Report.
+In this usability test, we identified more than 65 issues. They are described in details in attached Report: 
+[Heuristic Evaluation Report](https://github.com/mrehanali127/Heuristic-Evaluation_GroupProject/blob/main/HE-Report.pdf)
